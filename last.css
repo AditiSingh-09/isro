@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat-bold:wght@700&display=swap');
+
+        .last{
+            background-color: black;
+            height:400px;
+            color:white;
+            display: flex;
+            flex-direction: row;
+            overflow-x: hidden;
+
+        }
+
+        .left{
+            font-family: 'Montserrat-bold', sans-serif;
+            margin-left:20px;
+            font-size:15px;
+            width:450px;
+            line-height:1.5;
+        }
+
+        .middle{
+            font-family: 'Montserrat-bold', sans-serif;
+            margin-left:2px;
+            font-size:15px;
+            line-height: 2;
+            color:rgb(158, 155, 155);
+            margin-top:150px;
+            width:150px;
+        }
+
+        .right{
+            font-family: 'Montserrat-bold', sans-serif;
+            margin-left:20px;
+            font-size:15px;
+            color:rgb(158, 155, 155);
+            margin-top:170px;
+            margin-left:50px;
+            width:200px;
+            
+        }
+
+        .follow{
+            line-height: 1;
+            font-size:30px;
+        }
+
+        li:hover{
+            text-decoration: underline;
+            
+
+        }
+
+        .link{
+            color:rgb(158, 155, 155);
+            text-decoration: none;
+            
+        }
+
+        .fa-facebook:hover{
+            color:rgb(195, 190, 190);
+
+        }
+        .fa-x-twitter:hover{
+            color:rgb(195, 190, 190);
+
+        }
+        .fa-youtube:hover{
+            color:rgb(195, 190, 190);
+
+        }
+        .fa-instagram:hover{
+            color:rgb(195, 190, 190);
+
+        }
+            
+    

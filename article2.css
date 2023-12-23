@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat-bold:wght@800&display=swap');
+.art2{
+    
+    color:white;
+    font-family: 'Montserrat-bold', sans-serif;
+    height:550px;
+    background-image: url(marso1.jpg);
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    line-height: 1;
+
+    }
+    
+    
+    .content2{
+    margin-left: 10px;
+    width:800px;
+    font-size: 60px;
+    }
+    
+    .quote2{
+    line-height: 1.5;
+    font-size: 20px;
+    font-family: "Monsterrat",sans-serif;
+    }
+    
+    .watch-button{
+    padding:12px;
+    margin-right:2px;
+    background-color: rgb(217, 115, 31);
+    color:white;
+    outline:none;
+    border:none;
+    font-size: 20px;
+    border-radius: 5px;
+    
+    }
+    
+    .watch-button:hover{
+    padding:12px;
+    margin-right:2px;
+    background-color:rgb(203, 118, 15);
+    color:white;
+    
+    }
